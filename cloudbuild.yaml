@@ -16,5 +16,6 @@ steps:
   args:
   - run
   - --filename=k8s/
+  - --image=gcr.io/$PROJECT_ID/imgwebapp:v1
   - --location=us-west1-b
   - --cluster=project-kube
