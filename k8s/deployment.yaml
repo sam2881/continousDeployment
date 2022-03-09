@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: cv-app
-        image: gcr.io/My First Project/imgwebapp:v1
+        image: gcr.io/My First Project/myapp:v1
         ports:
         - containerPort: 8501
