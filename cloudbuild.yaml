@@ -18,4 +18,4 @@ steps:
   - --filename=k8s/
   - --location=us-west1-b
   - --cluster=project-kube
-  timeout: 1800s
+  
